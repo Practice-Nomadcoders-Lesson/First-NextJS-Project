@@ -19,7 +19,7 @@ export default function NavBar() {
           text-decoration: none;
         }
         .active {
-          color: ${props.color};
+          color: yellow;
         }
       `}</style>
     </nav>
